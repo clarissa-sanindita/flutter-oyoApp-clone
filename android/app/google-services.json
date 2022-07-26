@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "90510149397",
+    "project_id": "oyoapp-72f46",
+    "storage_bucket": "oyoapp-72f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90510149397:android:c6ecc885c489b0f2568b1c",
+        "android_client_info": {
+          "package_name": "com.example.oyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90510149397-aqj8in8n1uon9sp42q3tu74uo5fs1gpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oyo",
+            "certificate_hash": "5f416b3f4d6403478752c4ad94fb0fbab3f164d8"
+          }
+        },
+        {
+          "client_id": "90510149397-n0m7j0ggt5c9jmff554d89e5nqkid3hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDmzMD-F1ig0RdXvbdUzmRHHZVxzPCIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90510149397-n0m7j0ggt5c9jmff554d89e5nqkid3hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "90510149397-qk55ml2c13m2ccbaekqde041abs2qntn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oyo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
